@@ -1,8 +1,8 @@
-# 🚢 Titanic Survival Prediction - Internship Project
+#  Titanic Survival Prediction - Internship Project
 
 A comprehensive machine learning project developed during my internship that predicts passenger survival on the Titanic using historical data. This project demonstrates the complete ML pipeline from data exploration to model deployment as part of my professional development program.
 
-## 🎯 Project Overview
+##  Project Overview
 
 This internship project uses the famous Kaggle Titanic dataset to predict whether a passenger survived or not based on features like:
 
@@ -14,7 +14,7 @@ This internship project uses the famous Kaggle Titanic dataset to predict whethe
 - Ticket fare
 - Port of embarkation
 
-## 📊 Dataset
+##  Dataset
 
 The dataset contains information about 891 passengers from the Titanic. Key features include:
 
@@ -28,7 +28,7 @@ The dataset contains information about 891 passengers from the Titanic. Key feat
 | Fare | Passenger fare | Numerical |
 | Embarked | Port of embarkation (C, Q, S) | Categorical |
 
-## 🚀 Setup and Usage
+##  Setup and Usage
 
 ### Prerequisites
 - Python 3.7+
@@ -47,7 +47,7 @@ The dataset files are included in the `data/` folder:
 - `test.csv` - Test data for predictions
 - `gender_submission.csv` - Sample submission format
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 titanic-survival-prediction/
@@ -65,7 +65,7 @@ titanic-survival-prediction/
 
 ## 🔧 Analysis Features
 
-The Jupyter notebook includes:
+The collab notebook includes:
 
 ### Data Exploration & Preprocessing
 - ✅ Comprehensive data exploration and visualization
@@ -95,7 +95,7 @@ The analysis reveals several important insights about Titanic passenger survival
 
 Detailed results and model performance metrics are available in the Jupyter notebook.
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 Through this internship project, I gained hands-on experience with:
 
@@ -106,7 +106,7 @@ Through this internship project, I gained hands-on experience with:
 - 🎯 Prediction on new data
 - 📈 Visualization of results and insights
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - My internship supervisor and team for guidance and support
 - The company for providing this learning opportunity
